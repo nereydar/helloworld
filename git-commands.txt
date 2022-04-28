@@ -1,0 +1,11 @@
+git clone: copies the github project into a local folder in ur computer
+
+git status: shows changes/updates n new files in project
+
+git add FILENAME: includes the file changes to commit
+
+git commit -m "DESCRIPTION": saves a snapshot of project with the changes that have been added
+
+git log: displays a list of commits in project
+
+git push: upload commits/changes to remote repository
