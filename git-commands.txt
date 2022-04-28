@@ -11,3 +11,5 @@ git commit -m "DESCRIPTION": saves a snapshot of project with the changes that h
 git log: displays a list of commits in project
 
 git push: upload commits/changes to remote repository
+
+git diff: tells u which changes have been made
