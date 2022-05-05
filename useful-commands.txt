@@ -13,3 +13,7 @@ git log: displays a list of commits in project
 git push: upload commits/changes to remote repository
 
 git diff: tells u which changes have been made
+
+git pull: pulls changes from online into local repo
+
+node FILENAME: executes/runs js file
