@@ -1,6 +1,6 @@
 # LIST OF GIT COMMANDS
 
-git clone: copies the github project into a local folder in ur computer
+git clone: copies the github project (repo) into a local folder in ur computer
 
 git status: shows changes/updates n new files in project
 
